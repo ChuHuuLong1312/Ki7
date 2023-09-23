@@ -1,0 +1,15 @@
+D:\Ki7\PRN221\Code\DemoXmlSerializer\bin\Debug\net6.0\DemoXmlSerializer.exe
+D:\Ki7\PRN221\Code\DemoXmlSerializer\bin\Debug\net6.0\DemoXmlSerializer.deps.json
+D:\Ki7\PRN221\Code\DemoXmlSerializer\bin\Debug\net6.0\DemoXmlSerializer.runtimeconfig.json
+D:\Ki7\PRN221\Code\DemoXmlSerializer\bin\Debug\net6.0\DemoXmlSerializer.dll
+D:\Ki7\PRN221\Code\DemoXmlSerializer\bin\Debug\net6.0\DemoXmlSerializer.pdb
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.csproj.AssemblyReference.cache
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.AssemblyInfoInputs.cache
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.AssemblyInfo.cs
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.csproj.CoreCompileInputs.cache
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.dll
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\refint\DemoXmlSerializer.dll
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.pdb
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\DemoXmlSerializer.genruntimeconfig.cache
+D:\Ki7\PRN221\Code\DemoXmlSerializer\obj\Debug\net6.0\ref\DemoXmlSerializer.dll

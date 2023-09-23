@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContactList>
+   <Contact Id ="001">
+      <ContactName>
+         Alex
+      </ContactName>
+      <Company>
+         Fpt Software
+      </Company>
+      <Phone>
+         09611548765
+      </Phone>
+   </Contact>
+   <Contact Id ="002">
+      <ContactName>
+         victoria
+      </ContactName>
+      <Company>
+         Fpt Retail
+      </Company>
+      <Phone>
+         0923456780
+      </Phone>
+   </Contact>
+   <Contact Id ="002">
+      <ContactName>
+         John
+      </ContactName>
+      <Company>
+         Vinfast 
+      </Company>
+      <Phone>
+         0961154875
+      </Phone>
+   </Contact>
+</ContactList>
